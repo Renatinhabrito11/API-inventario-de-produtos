@@ -4,4 +4,4 @@ API de inventário de produtos: gerenciamento de produtos em um inventário para
 Bruno Silva Simões,
 Carla Renata da Silva Brito,
 Gabriel Lins,
-Lincoln Silva Simões
+Lincoln da Silva Souza
